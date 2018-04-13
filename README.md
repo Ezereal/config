@@ -1,0 +1,1 @@
+contain .tmuxconfig and .vimrc

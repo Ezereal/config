@@ -1,0 +1,11 @@
+set nu
+set hlsearch
+set incsearch
+set nocompatible 
+set ai!
+set wrap
+set autoindent
+set shiftwidth=4
+set tabstop=4
+set expandtab
+set smarttab
